@@ -1,0 +1,9 @@
+
+train: D:\YOLO v5.0\yolov5-5.0\datasets\nongyebug\images\train # 16551 images
+val: D:\YOLO v5.0\yolov5-5.0\datasets\nongyebug\images\val # 4952 images
+
+# number of classes
+nc: 1
+
+# class names
+names: ['mealworm']
